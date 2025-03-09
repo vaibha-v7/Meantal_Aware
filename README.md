@@ -1,4 +1,4 @@
-# Mental Health Awareness Landing Page
+# Mental Health Awareness 
 
 A responsive and modern landing page focused on mental health awareness, built with React and Vite.
 
